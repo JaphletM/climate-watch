@@ -6,3 +6,4 @@ __pycache__/
 .env
 venv/ClimateData/*.csv
 ClimateData/*.csv
+co2data/*.csv
