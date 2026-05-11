@@ -7,3 +7,4 @@ __pycache__/
 venv/ClimateData/*.csv
 ClimateData/*.csv
 co2data/*.csv
+cleaned_povstats/*.csv
